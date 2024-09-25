@@ -1,0 +1,146 @@
+
+
+
+
+
+
+Difference between final,finally, finalize
+
+
+
+Oops)
+
+Diff between interface vs abstract class vs concrete class
+Diff between Interface and abstract class
+Diff between Access modifiers vs Access specifiers
+
+
+Diff Between Overloading and Overriding?
+Can we override main method?
+Can we override Static method?
+
+
+
+
+Exception Handling)
+
+Control flow in try catch finally
+Control flow in try catch
+Diff fully checked exceptions and unchecked exceptions
+Diff Exception and Error
+Diff Between throw and throws
+what is the importance of finally block in exception handlig?
+
+can we have try block with out Catch block?
+Can we have any code between try and catch block?
+can we write any code after throw statement?
+
+
+Have you Created an Exception in your project?How did u use that class?
+Diff between NOClassDefFoundError and ClassNotFoundException?
+
+
+Lang package)
+
+Object class and methods)
+what are object class methods?
+Diff between ==Operator and equals() method
+contract between equals() and hashcode() method.
+Diff between Shallow cloning and deep cloning.
+Wait notify and notifyAll() methods.
+
+
+String class)
+difference between String and StringBuffer
+Stringbuffer and Stringbuilder
+
+
+
+
+Multi Threading)
+
+What is thread pool? how do you create a thread pool?
+What is Callable and Future?
+
+
+
+
+
+Collections)
+
+Diff Collection and Collections
+Diff Arrays and Arraylist? When will you use Array over Arraylist?
+
+List)
+Diff Arraylist and vector
+Diff Arraylist and LinkedList?
+
+Set)
+Diff Hashset and LinkedHashset
+Diff between Comparable and comparator interface
+Diff between Hashset and Treeset
+
+Maps)
+How Hashmap works in java?
+Diff between Hashmap and hashtable
+How to get synchronized version of hashamp
+
+
+Diff between Fail fast and fail safe
+When does concurrentModificationException occur?
+Diff between Hashmap and Concurrent Hashmap?
+
+
+
+Garbage collection)
+What are the ways to make an object eligible for GC
+What are the ways to request jvm to run GC?
+What are memory leaks? How to avoid them?
+
+
+JVM Architecture)
+
+Basic JTM Architecture
+Types of class loaders
+Various memory areas of JVM
+Diff between JIT Compiler and Interpreter
+
+
+
+
+Java 8 )
+
+What are the features of Java 8?
+What is metaspace?
+
+
+Spring interview questions)
+
+What is the difference between BEanfactory and Application Context?
+Spring bean life cycle?
+What are the annotations you used in your Spring Project?
+
+
+
+
+Spring boot)
+what are the benefits of using spring boot over Spring?
+How do you connect two oracle databases in Spring boot?
+What is the use of Spring boot Dev tools?
+What is Spring Boot Actuator?
+How do you deploy Spring boot application in Tomcat?
+How to change default port in Spring boot?
+How to resolve white lable error message in Spring boot?
+
+Managerial Project Round Questions)
+
+
+
+
+Angular Interview Questions)
+
+What are the main components involved in Angular Application? How does the interaction happend between them?
+Can you explain the Angular application Architecture?How does the flow start to end?
+What iS AOT Compilation? what are the advantages of it?
+
+
