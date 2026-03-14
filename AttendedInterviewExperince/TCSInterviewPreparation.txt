@@ -1,0 +1,85 @@
+
+
+
+
+
+
+
+Self Introduction
+Explaination of Current Project.
+Project architecure. High level business overview of the system. 
+
+Roles and responsibilities)
+Vulnerability management. 
+Migrations from Java 8 to Java 11,17
+Migrations form spring 2.7.18 to Springboot 3.0
+Migration from Spring 5 to Spring 6
+
+
+
+
+just iterare on CI/CD pipeline?
+What is github actions?
+what is the difference between PR work flow? Release candidate and Release workflow?
+What is GTG?
+What is checkmarx? few sample checkmarx issues and fixed?
+What is blackduck? and few sample issues?
+What is Sonar qube ?Why was it introduced?
+What is Service now? and how is it useful?
+
+
+
+
+
+Why did you choose oracle, mysql and redis
+
+
+what is the use of redis?
+
+Spring rest interview questions?
+Spring boot interview questions?
+Spring security interview questions?
+
+
+
+
+
+
+what need to be change)
+Skill set addition in naukri.
+add versions in the resume.
+Update daily by ading key skill set in portal and update resume.
+
+
+
+Talent 500
+American Airlines
+Every north
+T Mobile[TMS Global]
+
+
+
+
+
+
+almost all we are using ra. Except 
+
+AKS
+PAKT Framework
+Netflix
+
+
+
+
+Java
+Spring Boot
+Micro Services
+Kafka
+OpenShift
+Cloud Foundry
+AWS
+Github Actions
+Jenkins
+Harness
+
+

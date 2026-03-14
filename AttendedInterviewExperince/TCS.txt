@@ -1,0 +1,26 @@
+
+
+Tell me about yourself. 
+
+
+What is composition and aggregation?
+What are SOLID Principles?
+Hashset internal implementation?
+Difference between StringBuffer and StringBuilder?
+
+
+Spring)
+What is dependency Injection?
+How many types of Bean scopes are there in Spring application?
+
+
+what is the difference between Post and PUT method?
+What is the difference between PUT and PATCH method?
+Advantage of Angular?
+
+
+How would you perform the Catching in Spring applications?
+How would you improve the database performance?
+Ho do you implement global exceptions in Spring/Spring Boot?
+
+
