@@ -1,0 +1,58 @@
+
+
+
+
+Tell me about yourself?
+Do you have experience on Spring boot.
+
+What is the recent vulnerability you fixed in your project?
+
+
+
+
+
+
+
+
+
+
+EPAM Interview)
+
+Java 8 Programs)
+
+List of employees. 
+
+
+Get highest salary department wise.
+
+
+
+Number program)
+Write a program to filter even numbers from a list.
+Write a program to filter odd numbers from a list.
+Write a program to filter/reomve less than 5 from a list using Java 8 Streams API.
+Write a program to filter/remove the elements greater than 5 from a list using Java 8 Streams API.
+Write a program to remove the duplicates from a list using java 8 strem api. 
+
+
+Write a program to find the max value from a list of integers.
+Write a program to find the min value from a list of integers.
+Write a program to get the sorted list from a list of integers as per ascending order.
+Write a program to get the sorted list from a list of integers as per descending order.
+
+
+
+
+
+
+
+
+
+Write a program to convert a list of Strings to uppercase using the stream api.
+Write a program in java to group strings by their length using the stream api.
+
+
+What is the use of comparator.comparingInt(String::Length).
+
+
+

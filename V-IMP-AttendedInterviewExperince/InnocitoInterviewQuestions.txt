@@ -1,0 +1,44 @@
+
+
+
+
+
+Tell me about yourself?
+Discuss about your project architecture?
+
+
+
+Discuss about the pipeline you follow in your project?
+
+
+
+
+How do you rate yourself in java?
+What are the features of Java8?
+Stream Program. Give a list of students. How do you get failed student marks.?
+What are the memory improvements done in java8?
+
+
+What is dependency Injection?
+
+
+
+
+
+
+
+
+
+
+In your mind)
+
+Prepare all daigrams in one single document)
+
+
+
+Project architecture
+collection daigrams
+java 8 features
+java all features
+Spring MVC
+MicroServices architecture
